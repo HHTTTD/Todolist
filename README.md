@@ -40,3 +40,5 @@ git clone https://github.com/HHTTTD/Todolist.git
 สามารถทดลองใช้งานแอปพลิเคชันได้ที่นี่:  
 🔗 [Todo List - Live Demo](https://todolist-cmnz.onrender.com)
 
+![Todo List Preview](https://cdn.discordapp.com/attachments/1127802967274303498/1345297720394518590/Todolist.PNG?ex=67c409a2&is=67c2b822&hm=597a82e1c235ee660687b8a9075617db9aee3b2d27528d1364b1da77dbdb4906&)
+

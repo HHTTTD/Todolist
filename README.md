@@ -21,15 +21,14 @@
 ## วิธีการติดตั้งและรันโปรเจค
 ### 1. ดาวน์โหลดหรือโคลนโปรเจค
 ```
-git clone https://github.com/your-repo/todo-list.git
-cd todo-list
+git clone https://github.com/HHTTTD/Todolist.git
 ```
 
 ### 2. เปิดไฟล์ `index.html`
 เพียงแค่เปิดไฟล์ `index.html` ในเว็บเบราว์เซอร์ของคุณ เช่น Google Chrome หรือ Firefox
 
 ### 3. แนะนำให้ใช้ Live Server บน VS Code
-หากคุณใช้ VS Code สามารถติดตั้งExtensions **Live Server** และกดคลิกขวาที่ `index.html` แล้วเลือก"Open With Live Server" เพื่อเปิดใช้งานโปรเจคได้ง่าย ๆ
+หากคุณใช้ VS Code สามารถติดตั้งExtensions **Live Server** และกดคลิกขวาที่ในไฟล์ `index.html` แล้วเลือก"Open With Live Server" เพื่อเปิดใช้งานโปรเจคได้ง่าย ๆ
 
 ## ไฟล์ในโปรเจค
 - `index.html` - โครงสร้างหลักของเว็บแอป
